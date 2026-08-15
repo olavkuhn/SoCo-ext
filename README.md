@@ -1,1 +1,1 @@
-# SoCo-ext
+# SoCo-TTS
